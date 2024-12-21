@@ -4,3 +4,4 @@ if a>1:
     print("ok")
 else:
     print("no") 
+print("hi")
