@@ -12,5 +12,5 @@ jobs:
         - uses: actions/checkout@v2
         - name: Run Python
           run: |
-            python3 test.py # test
+            python3 test_mail.py # test
             
